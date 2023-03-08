@@ -42,7 +42,7 @@ Create a function that takes an integer as an argument and returns **"Even"** fo
 
 * 09.2021-Present
 The Belarusian state university of informatics and radioelectronics
-*Faculty of Computer-Aided Design,***programmer,business analyst**
+*Faculty of Computer-Aided Design* **programmer,business analyst**
 
 # Courses
 
