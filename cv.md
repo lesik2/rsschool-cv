@@ -48,7 +48,7 @@ The Belarusian state university of informatics and radioelectronics
 
 * 02.2022-06.2022
 English training course from BSUIR "*Intermediate*"(85 hours)
-*08.2022-10.2020
+* 08.2022-10.2020
 English teaching school "*EnglishPapa*","*Upper Intermediate*"
 
 # Languages
