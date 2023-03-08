@@ -1,17 +1,15 @@
 # rsschool-cv
-******************cd
+
 # Alexey Pukhalskiy
-********************
-# GET IN CONTACT
-********************
+
+# Get in contact
 
 * Phone: +375 29 242-77-56
 * E-mail: lesikpuhalskij@gmail.com
 * GitHub: [lesik2](https://github.com/lesik2)
 * Telegram: [Alex Pukhalski](https://t.me/alexPukhalskiy)
-***********************************************************
-# PERSONAL PROFILE
-****************************
+
+# Personal profile
 
 A second-year student from IT University-BSUIR with average score 9.4 who has a great desire to get new experience and useful theoretical,practical knowledge in frontend development.
 
@@ -20,9 +18,8 @@ A second-year student from IT University-BSUIR with average score 9.4 who has a 
     + Hardworking
     + Honest
     + Disciplined
-************************************************************************
-# SKILLS
-*******************
+
+# Skills
 
 * HTML
 * CSS/SASS
@@ -31,9 +28,9 @@ A second-year student from IT University-BSUIR with average score 9.4 who has a 
 * Database SQL
 * Java
 * C++
-*******************************
-# CODE EXAMPLe
-*******************************
+
+# Code example
+
 
 
 
